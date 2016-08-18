@@ -1,3 +1,4 @@
 Fun with git
 TODO summary
 TODO write rest of book
+save this idea for later
