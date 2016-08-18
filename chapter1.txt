@@ -1,4 +1,4 @@
 Fun with git
-TODO summary
+TODO summary change made on github
 TODO write rest of book
 save this idea for later
