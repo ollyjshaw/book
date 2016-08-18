@@ -1,2 +1,2 @@
-TODO write title
+Fun with git
 TODO write rest of book
