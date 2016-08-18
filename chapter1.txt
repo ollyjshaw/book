@@ -1,3 +1,7 @@
 Fun with git
 TODO summary
 TODO write rest of book
+line1
+line2
+line3
+messy 
